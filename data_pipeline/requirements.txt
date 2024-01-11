@@ -1,0 +1,12 @@
+pandas
+numpy
+tabulate
+sportsipy
+holidays
+patsy
+statsmodels
+requests
+matplotlib
+nbformat
+openpyxl
+jupyter
